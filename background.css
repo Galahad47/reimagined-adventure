@@ -1,0 +1,11 @@
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.gif-container {
+    background: url("https://i.gifer.com/E7TI.gif") center;
+    background-size: cover;
+
+    height: 100%;
+}
